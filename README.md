@@ -17,3 +17,6 @@ buffs vanilla minecraft experience in a variety of ways (1.21.8)
 - mobs do not forgive upon killing the player
 - angry mobs target all players
 
+# time clock on actionbar
+in order to disable it, type
+/scoreboard players set ?counter tick 1
