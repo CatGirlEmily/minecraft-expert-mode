@@ -1,0 +1,13 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:tool": {
+      "rules": [
+        {
+          "blocks": "#minecraft:coal_ores",
+          "correct_for_drops": false
+        }
+      ]
+    }
+  }
+}
