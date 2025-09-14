@@ -1,5 +1,5 @@
 # minecraft-expert-mode
-buffs vanilla minecraft experience in a variety of ways (1.21.8)
+buffs vanilla minecraft difficulty in a variety of ways (1.21.8)
 # Changes
 - fist break speed reduced to 75%
 - wooden/stone pickaxes can no longer mine coal
