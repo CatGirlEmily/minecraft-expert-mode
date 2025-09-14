@@ -12,5 +12,5 @@ scoreboard players operation %m tick %= 1000 int
 scoreboard players operation %m tick *= 60 int
 scoreboard players operation %m tick /= 1000 int
 
-execute if score %m tick matches ..10 run return run title @a actionbar [{"color":"gold","text":"["},{"color":"white","score":{"name":"%h","objective":"tick"}},{"color":"white","text":":"},{"color":"white","text":"0"},{"color":"white","score":{"name":"%m","objective":"tick"}},{"color":"gold","text":"]"}]
+execute if score %m tick matches ..9 run return run title @a actionbar [{"color":"gold","text":"["},{"color":"white","score":{"name":"%h","objective":"tick"}},{"color":"white","text":":"},{"color":"white","text":"0"},{"color":"white","score":{"name":"%m","objective":"tick"}},{"color":"gold","text":"]"}]
 title @a actionbar [{"color":"gold","text":"["},{"color":"white","score":{"name":"%h","objective":"tick"}},{"color":"white","text":":"},{"color":"white","score":{"name":"%m","objective":"tick"}},{"color":"gold","text":"]"}]
