@@ -2,7 +2,7 @@
 buffs vanilla minecraft difficulty in a variety of ways (1.21.8)
 # Changes
 - fist break speed reduced to 75%
-- wooden/stone pickaxes can no longer mine coal
+~~- wooden/stone pickaxes can no longer mine coal~~
 - diamonds do not generate naturally underground
 - beds no longer skip nights (phantoms appear every 6th night)
 - 50% of endermen are agressive towards player by default (unless wearing pumpkin)
